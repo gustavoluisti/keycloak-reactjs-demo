@@ -4,24 +4,6 @@ Demo and reference implementation for React.JS and Keycloak IAM & SSO integratio
 
 With this approach, there's no need for 3rd party dependencies (besides the official default `keycloak-js` lib) and custom components base on auth state are implemented with ease and best developer experience.
 
-## YouTube videos
-
-There are three videos on YouTube about this demo repository and how to integrate your React.js based application with Keycloak:
-
-### Part 1: Configuration & Usage, w/o 3rd party libs
-[![](http://img.youtube.com/vi/q50LxyGtEf0/0.jpg)](http://www.youtube.com/watch?v=q50LxyGtEf0 "")  
-https://youtu.be/q50LxyGtEf0
-
-### Part 2: Conditional rendering of components
-[![](http://img.youtube.com/vi/zIoWxY3Xhnw/0.jpg)](http://www.youtube.com/watch?v=zIoWxY3Xhnw "")  
-https://youtu.be/zIoWxY3Xhnw
-
-### Part 3: React Router Integration, depending on Keycloak Roles
-[![](http://img.youtube.com/vi/es8sf8D7UyQ/0.jpg)](http://www.youtube.com/watch?v=es8sf8D7UyQ "")  
-https://youtu.be/es8sf8D7UyQ
-
-> Please check out also my [entire Youtube Channel](https://www.youtube.com/c/NikoKöbler?sub_confirmation=1) with various videos on Keycloak and stuff around:
-
 ## Prerequisites
 
 - based on React version >= 18 and Vite
