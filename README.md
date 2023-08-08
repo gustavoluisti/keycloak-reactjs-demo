@@ -1,4 +1,4 @@
-# Keycloak React.JS Demo
+# Keycloak React.JS
 
 Demo and reference implementation for React.JS and Keycloak IAM & SSO integration.
 
